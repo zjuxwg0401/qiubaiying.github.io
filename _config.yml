@@ -13,7 +13,7 @@ github_repo: "https://github.com/zjuxwg0401/zjuxwg0401.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "已识乾坤大，尤怜草木青"
-sidebar-avatar: /img/xier.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/xier.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
