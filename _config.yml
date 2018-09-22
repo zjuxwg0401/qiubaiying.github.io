@@ -13,7 +13,7 @@ github_repo: "https://github.com/zjuxwg0401/zjuxwg0401.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "已识乾坤大，尤怜草木青"
-sidebar-avatar: /img/Xier.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/xier.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,19 +57,21 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
+# Disqus（https://disqus.com/
+
+
+）
 # disqus_username: shallwego2
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 08af272e3c001451e42f #生成的clientID
+  clientID: 08af272e3c001451e42f                           #生成的clientID
   clientSecret: df1c6ad483a2d6aff2c420fd66f5fa7b57c12472    #生成的clientSecret
   repo: zjuxwg0401.github.io    #仓库名称
   owner: zjuxwg0401    #github用户名
   admin: zjuxwg0401
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
 
 
 # 统计
